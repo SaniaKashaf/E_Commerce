@@ -1,5 +1,6 @@
 package com.example.ecommerce.utils;
 
+
 public class Constants {
     public static String API_BASE_URL = "https://tutorials.mianasad.com/ecommerce";
     public static String GET_CATEGORIES_URL = API_BASE_URL + "/services/listCategory";
